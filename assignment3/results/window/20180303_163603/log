@@ -1,0 +1,11 @@
+2018-03-03 16:36:23,364:INFO: Building model...
+2018-03-03 16:36:26,105:WARNING: From q1_window.py:253: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See tf.nn.softmax_cross_entropy_with_logits_v2.
+
+2018-03-03 16:36:26,804:INFO: took 3.43 seconds
+2018-03-03 16:36:29,064:INFO: Epoch 1 out of 10
